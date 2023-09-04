@@ -29,6 +29,10 @@ To install application locally, follow these steps:
 * Run `npm start` to start the server and launch the application.
 
 ## Screenshots
+![image](https://github.com/SwathiVinod19/Notetaker-app/assets/129353324/b6d4d2a9-4a1f-4025-a0df-173620b8c3f3)
+
+![image](https://github.com/SwathiVinod19/Notetaker-app/assets/129353324/f2faee4e-3f24-49b9-a11d-b66278fe0d65)
+
 
 ## Test
 No tests currently
