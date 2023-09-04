@@ -34,7 +34,7 @@ To install application locally, follow these steps:
 No tests currently
 
 ## Questions
-Contact me at [email](swathi.vinod@gmail.com) for any queries
+Contact me at [swathi.vinod@gmail.com](swathi.vinod@gmail.com) for any queries
 
 
 
